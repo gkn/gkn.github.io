@@ -17,7 +17,7 @@ abbr, acronym
 }
 #bodycontent
 {
-	background-color: #FFF;
+	background-color: #303030;
 	font-family: Tahoma, Arial, Helvetica, sans-serif;
 	padding: 4em;
 	margin: 2em auto;
@@ -33,16 +33,6 @@ h1
 	font-family: "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
 }
 #address
-{
-	float: right;
-	font-size: 1.2em;
-}
-#contact1
-{
-	float: left;
-	font-size: 1.2em;
-}
-#contact2
 {
 	float: right;
 	font-size: 1.2em;
