@@ -1,0 +1,88 @@
+html
+{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	padding: 0;
+	margin: 0 0 2em 0;
+	background-color: #444;
+	font-size: 62.5%;
+}
+abbr, acronym
+{
+	border-bottom: 1px dotted #333;
+	cursor: help;
+}
+#bodycontent
+{
+	background-color: #303030;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	padding: 4em;
+	margin: 2em auto;
+	border: 2px solid #000;
+	max-width: 80em;
+}
+h1
+{
+	font-size: 2.6em;
+	margin: 0 0 .1em 0;
+	padding: 1em 0 0 0;	
+	border-bottom: 3px double #000;
+	font-family: "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+}
+#address
+{
+	float: right;
+	font-size: 1.2em;
+}
+
+.section
+{
+	font-size: 1.3em;
+	margin: 0;
+	padding: 1em 0;
+}
+.section .content
+{
+	width: 42em;
+	margin: 0 0 0 13em;
+}
+.section .content .datespan
+{	
+	font-size: 1.0em;
+	float: left;	
+	margin: 0 0 0 -13em;
+	text-align: right;
+}
+.section .content p.clientaddress
+{
+	font-style: italic;
+	color: #333;
+	margin: 0px;
+}
+.section .content ul
+{	
+	padding-left: .5em;
+	margin-left: .5em;
+}
+.section h2
+{	
+	font-size: 1.6em;
+	letter-spacing: .05em;
+	border-bottom: 1px solid #000;
+	font-family: "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+}
+.section h3
+{	
+	font-size: 1.4em;
+	margin-bottom: 0;
+	font-family: "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+}
+.section h4
+{	
+	font-size: 1em;
+	margin-bottom: 0;
+	font-family: "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+}
