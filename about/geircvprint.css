@@ -1,0 +1,12 @@
+body
+{
+	background-color: #FFF;
+	margin: 0;
+	width: 100%;
+}
+#bodycontent
+{
+	margin: 0;
+	border-width: 0 0 0 0;
+	max-width: 95%;
+}
