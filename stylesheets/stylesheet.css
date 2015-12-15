@@ -68,6 +68,10 @@ header h2 {
   color: #666;
 }
 
+footer address {
+  font-size: 12px;
+}
+
 #downloads .btn {
   display: inline-block;
   text-align: center;
